@@ -1,0 +1,6 @@
+/Users/gilmar/Documents/Aula_CsharpCompleto/ExportarFuelManager_para_Fuelio/obj/x86/Debug/exportFuel.csprojAssemblyReference.cache
+/Users/gilmar/Documents/Aula_CsharpCompleto/ExportarFuelManager_para_Fuelio/obj/x86/Debug/exportFuel.csproj.CoreCompileInputs.cache
+/Users/gilmar/Documents/Aula_CsharpCompleto/ExportarFuelManager_para_Fuelio/obj/x86/Debug/Sessao7Trabalhandoa.exe
+/Users/gilmar/Documents/Aula_CsharpCompleto/ExportarFuelManager_para_Fuelio/obj/x86/Debug/Sessao7Trabalhandoa.pdb
+/Users/gilmar/Documents/Aula_CsharpCompleto/ExportarFuelManager_para_Fuelio/bin/Debug/Sessao7Trabalhandoa.exe
+/Users/gilmar/Documents/Aula_CsharpCompleto/ExportarFuelManager_para_Fuelio/bin/Debug/Sessao7Trabalhandoa.pdb
